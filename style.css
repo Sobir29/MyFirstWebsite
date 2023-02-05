@@ -1,0 +1,19 @@
+.social-btn {
+  transition: 0.2s all;
+}
+.social-btn:hover {
+  transform: scale(1.05);
+}
+.profile-image {
+  transition: 0.2s ease;
+}
+.profile-image:hover {
+  transform: scale(1.1) rotate(10deg);
+  box-shadow: 5px 10px #888888;
+}
+body {
+  height: 100vh;
+}
+.btn-primary {
+  margin: 10px;
+}
